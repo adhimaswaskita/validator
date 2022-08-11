@@ -3,7 +3,7 @@ package validators
 import (
 	"testing"
 
-	"github.com/go-playground/validator/v10"
+	"github.com/adhimaswaskita/validator"
 	"github.com/go-playground/assert/v2"
 )
 
